@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @pavanibandi
 - Skills:
 
-         .Frontend: HTML,CSS,Javascript,Bootstrap
-         .Backend:  Php,Node Js,React,MySql,Python
-         .programming Languages:Python,Java,C#
-         .Android Development: Android Studio,Firebase
-         .Tools:Powerbi,Bootstrap,Jira
+         .Frontend: HTML,CSS,Javascript,Reactjs
+         .Backend:  Php,Node Js,Firebase,Python
+         .Database: MYSQL , MongoDB
+         .programming Languages:Python,Java
+         .Android Development: Android Studio,Firebase,React-Native
+         .Tools:Powerbi,Jira,Git
 
 -Projects:
 
@@ -22,7 +23,7 @@
                      --XML
 
 
-------------
+-----------------
 #WEBSITES
 
 2.PBR VITS College Website:
@@ -33,7 +34,7 @@
                      --HTML,CSS
                      --JavaScript
                      --PhP
-                     --Bootstrap
+                     --MySQL
 link:https://pbrvits.netlify.app
 ------
 3. Visvotsav Event Website:
@@ -44,9 +45,9 @@ link:https://pbrvits.netlify.app
     Link: https://Visvotsav.in
 
    Technologies Used:
-                ---HTML,CSS,JavaScript
-                ---Bootstrap
-                ---PHP
+                ---HTML,CSS
+                ---JavaScript
+                ---MongoDB
 
 --------
 4.Robotic Car:
@@ -69,6 +70,25 @@ link:https://pbrvits.netlify.app
 https://github.com/user-attachments/assets/1e3f551d-f703-4fd3-99e1-f8dc9c1b4326
 
 
+--------------
+5.Portfolio:
+
+      Technologies Used:
+          ----HTML
+          ----CSS
+          ----JAVASCRIPT
+---------------
+6.Employee Management System:
+        
+        The Employee Management System is a web application designed to help organizations manage employee information efficiently. It allows administrators to add, update, delete, and view employee details. The 
+        system is built using the MERN stack (MongoDB, Express.js, React.js, Node.js), providing a robust and scalable solution for managing employee records.
+
+       Technologoes Used:
+         ---React Js
+         ---Node Js
+         ---Javascript
+         ---Mongodb
+         ---Express Js
 
 <!---
 pavani220/pavani220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
