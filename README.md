@@ -29,15 +29,13 @@
 
 #Android Studio-App Development--Java,Firebase
 
-1.SPV FOODIE APP:
+1.APP Development:
 
-    The app is developed using the android studio and firebase in 2023.It is a foood delivery app,it is deployed and got more
-    than 250 orders in a day and it is recognized by the startupindia by central government.
+    The app is developed using the android studio ,Firebase.It is an App designed for vurimiAi company.
     Technologies Used:
                      --core java
                      --firebase
-                     --Android
-                     --XML
+                     --Android Studio
 
 
 -----------------
@@ -54,17 +52,14 @@
                      --MySQL
 link:https://pbrvits.netlify.app
 ------
-3. Visvotsav Event Website:
+3. Portfolio:
 
-     The Website is contributed to the PBR VITS college for the event VISVOTSAV. This Website is developed by @shaikSandhani and @pavanibandi for pre-registrations of the event
-   and this website is deployed in google
-
-    Link: https://Visvotsav.in
+     The Website is designed as an portfolio to showcase my skills and projects developed
 
    Technologies Used:
-                ---HTML,CSS
-                ---JavaScript
-                ---MongoDB
+                ---ReactJs ,Css
+                ---JavaScript ,Nodejs
+                ---MongoDB ,ExpressJs
 
 --------
 4.Robotic Car:
@@ -88,7 +83,7 @@ https://github.com/user-attachments/assets/1e3f551d-f703-4fd3-99e1-f8dc9c1b4326
 
 
 --------------
-5.Portfolio:
+5.Portfolio: 
 
       Technologies Used:
           ----HTML
