@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Pavani Bandi</h1>
-<h3 align="center">A passionate Mern-Stack Developer</h3>
+<h3 align="center">Salesforce Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavani220&label=Profile%20views&color=0e75b6&style=flat" alt="pavani220" /> </p>
 
-- 🔭 I’m currently working on **VurimiAi App**
-
-- 🌱 I’m currently learning **ReactJs,Nodejs,Mongodb,ExpressJs**
+- 🔭 I’m currently working on **Accellor**
 
 - 📫 How to reach me **pavanibandi548@gmail.com**
 
@@ -20,6 +18,7 @@
 
          .Frontend: HTML,CSS,Javascript,Reactjs
          .Backend:  Php,Node Js,Firebase,Python
+         . Clouds - Salesforce,AWS,Azure
          .Database: MYSQL , MongoDB
          .programming Languages:Python,Java
          .Android Development: Android Studio,Firebase,React-Native
